@@ -1,7 +1,4 @@
-<?php 
-require_once __DIR__."/vendor/autoload.php";
-//$db = new \App\Db();
-?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
